@@ -1,2 +1,2 @@
 #catalog streamlit app file
-import snowflake.coonector
+import snowflake.connector
